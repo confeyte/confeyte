@@ -28,7 +28,7 @@ I’m currently learning Java, focusing on the fundamentals like programming log
 
 I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, improving my programming logic, working with APIs, and understanding basic backend concepts, building small projects to grow step by step.
 
-<img align="right" width="" src="https://github.com/confeyte/confete/blob/main/banner2.jpg?raw=true"/>
+<img align="right" width="" src=
 <br clear="right"/>
 
 
