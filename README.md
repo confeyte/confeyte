@@ -71,6 +71,17 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 
 <div align="center">
 
+<a href="https://github.com/confeyte/persona-5-Royal----interactive-menu-system">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=confeyte&repo=persona-5-Royal----interactive-menu-system&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff004c&icon_color=ff004c&text_color=ffffff" />
+</a>
+
+</div>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=8BA6AE"/>
+
+</p>
 
 ## Statistics
 
