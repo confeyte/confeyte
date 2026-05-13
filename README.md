@@ -67,13 +67,18 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/confeyte/persona-5-Royal----interactive-menu-system">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=confeyte&repo=persona-5-Royal----interactive-menu-system&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff004c&icon_color=ff004c&text_color=ffffff" />
+  <img 
+    src="https://github.com/confeyte/confeyte/blob/main/java%20square"
+    width="150"
+  />
 </a>
+
+</div>
 
 </div>
 
