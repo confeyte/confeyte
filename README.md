@@ -3,6 +3,12 @@
        style="max-width: 1200px; width: 100%; height: auto;"
        alt="banner"/>
 </div>
+
+ </div>
+
+ ---
+
+ 
  ▸ **Contact me here**
 
 
