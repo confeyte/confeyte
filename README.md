@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=IM+Fell+English+SC&size=26&pause=2000&color=8BA6AE&center=true&vCenter=true&width=600&lines=STILL+LEARNING...;YOU+HAD+A+CHOICE;WHY+DID+YOU+CHOOSE+ME" alt="Typing
-    SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=IM+Fell+English+SC&size=26&pause=2000&color=7F9FB3&center=true&vCenter=true&width=600&lines=STILL+LEARNING...;YOU+HAD+A+CHOICE;WHY+DID+YOU+CHOOSE+ME" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -22,7 +21,7 @@
 
 > *"Never trust anyone even your shadow leaves when you're in the darkness"*
 
-◈Brazil 🇧🇷
+◈ Brazil 🇧🇷
 
 </div>
 
@@ -35,7 +34,7 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 
 ---
 
-## Technologies
+## ▸ Technologies
 
 <div align="center">
 
@@ -52,7 +51,7 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 
 ---
 
-##  Bonfires Lit — Education
+## ▸ Bonfires Lit — Education
 
 | | Course | Status |
 |:---:|:---|:---:|
@@ -63,7 +62,7 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 
 ---
 
-## Featured Projects
+## ▸ Featured Projects
 
 <div align="center">
 
@@ -84,7 +83,27 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 
 </p>
 
-## Statistics
+</div>
+
+---
+
+## ▸ Repositories
+
+<div align="center">
+  <a href="https://github.com/confeyte?tab=repositories">
+    <img 
+      src="https://img.shields.io/badge/repositories-0D1117?style=for-the-badge&logo=github&logoColor=7F9FB3&labelColor=0D1117"
+      width="300"
+    />
+  </a>
+</div>
+
+ </div>
+
+ ---
+
+
+## ▸ Statistics
 
 <div align="center">
 
@@ -96,7 +115,7 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 
 ---
 
-##  Contribution Graph
+## ▸ Contribution Graph
 
 <div align="center">
 
