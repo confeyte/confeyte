@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://github.com/confeyte/confete/blob/main/banner.jpg?raw=true" width="100%" alt="banner"/>
-  </div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=IM+Fell+English+SC&size=26&pause=2000&color=8BA6AE&center=true&vCenter=true&width=600&lines=STILL+LEARNING...;YOU+HAD+A+CHOICE;WHY+DID+YOU+CHOOSE+ME" alt="Typing
     SVG"/>
 </div>
