@@ -28,7 +28,7 @@
 
 **Aspiring Full-Stack Developer**
 
-> *"Never trust anyone even your shadow leaves when you're in the darkness"*
+> *"If an angelic being fell from the sky and tried to live in this world of ours, I think even they would commit many wrongs."*
 
 ◈ Brazil 🇧🇷
 
