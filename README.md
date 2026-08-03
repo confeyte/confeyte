@@ -1,5 +1,5 @@
 <div style="width: 100%; display: flex; justify-content: center;">
-  <img src="https://github.com/confeyte/confeyte/blob/main/banner"
+  <img src=""
        style="max-width: 1200px; width: 100%; height: auto;"
        alt="banner"/>
 </div>
