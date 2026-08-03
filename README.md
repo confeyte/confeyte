@@ -47,7 +47,7 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=8BA6AE)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=8BA6AE)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=8BA6AE)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=8BA6AE)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=8BA6AE)
