@@ -77,7 +77,7 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 
 <a href="https://github.com/confeyte/persona-5-Royal----interactive-menu-system">
   <img 
-    src="https://github.com/confeyte/confeyte/blob/main/java%20square"
+    src="https://github.com/confeyte/confeyte/blob/main/c.jpeg"
     width="150"
   />
 </a>
