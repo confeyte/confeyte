@@ -88,7 +88,7 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=8BA6AE"/>
+  
 
 </p>
 
