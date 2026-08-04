@@ -54,6 +54,7 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=8BA6AE)
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=8BA6AE)
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=8BA6AE)
+![GameMaker](https://img.shields.io/badge/GameMaker-111?style=for-the-badge&logo=gamemaker&logoColor=8BA6AE)
 
 
 </div>
