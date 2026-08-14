@@ -76,7 +76,7 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 
 <div align="center">
 
-<a href="https://github.com/confeyte/persona-5-Royal----interactive-menu-system">
+<a href="https://github.com/confeyte/idk-yet-big-project-btw-">
   <img 
     src="https://github.com/confeyte/confeyte/blob/main/c"
     width="150"
