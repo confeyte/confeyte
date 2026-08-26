@@ -117,9 +117,7 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=confeyte&theme=dark&ring=8BA6AE&fire=8BA6AE&currStreakLabel=8BA6AE&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=6b7280&sideLabels=8BA6AE" alt="streak"/>
-
-<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=confeyte&theme=dark&background=0d0d0d&border=2a2a2a&ring=8BA6AE&fire=8BA6AE&currStreakLabel=8BA6AE&sideLabels=8BA6AE&dates=6b7280" alt="GitHub Streak">
 
 </div>
 
@@ -129,14 +127,6 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=confeyte&bg_color=0d0d0d&color=8BA6AE&line=8BA6AE&point=d1d5db&area=true&area_color=1f2a30&hide_border=false&border_color=2a2a2a&title_color=8BA6AE)](https://github.com/confeyte)
+<img src="https://gitblend.com/api/contributions?username=confeyte&theme=dark&labels=true" alt="GitHub Contribution Graph">
 
 </div>
-
----
-
-
-
-
-
-
