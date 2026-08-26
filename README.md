@@ -121,12 +121,5 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 
 </div>
 
----
 
-## ▸ Contribution Graph
 
-<div align="center">
-
-<img src="https://gitblend.com/api/contributions?username=confeyte&theme=dark&labels=true" alt="GitHub Contribution Graph">
-
-</div>
