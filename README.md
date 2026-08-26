@@ -72,11 +72,11 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 
 ---
 
-## ▸ Featured Projects
+## ▸ Projects
 
 <div align="center">
 
-<a href="https://github.com/confeyte/idk-yet-big-project-btw-">
+<a href="https://github.com/confeyte?tab=repositories">
   <img 
     src="https://github.com/confeyte/confeyte/blob/main/c"
     width="150"
