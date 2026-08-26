@@ -95,20 +95,6 @@ I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, impro
 
 </div>
 
----
-
-## ▸ Repositories
-
-<div align="center">
-  <a href="https://github.com/confeyte?tab=repositories">
-    <img 
-      src="https://img.shields.io/badge/repositories-0D1117?style=for-the-badge&logo=github&logoColor=7F9FB3&labelColor=0D1117"
-      width="300"
-    />
-  </a>
-</div>
-
- </div>
 
  ---
 
