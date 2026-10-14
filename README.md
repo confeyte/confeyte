@@ -28,7 +28,7 @@
 
 **Aspiring Full-Stack Developer**
 
-> *"If an angelic being fell from the sky and tried to live in this world of ours, I think even they would commit many wrongs."*
+> *"I don't think I can ever forgive you for that. But I would like to try."*
 
 ◈ Brazil 🇧🇷
 
