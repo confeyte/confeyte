@@ -1,10 +1,7 @@
-<img width="941" height="1672" alt="image" src="https://github.com/user-attachments/assets/2e9a68be-ec2c-4aa5-b2ed-2496d258e36b" /><img width="941" height="1672" alt="image" src="https://github.com/user-attachments/assets/8196944c-8e06-4b3c-9b52-12dda0323561" /><div style="width: 100%; display: flex; justify-content: center;">
+<div style="width: 100%; display: flex; justify-content: center;">
   <img src="https://github.com/confeyte/confeyte/blob/main/a"
        style="max-width: 1200px; width: 100%; height: auto;"
        alt="banner"/>
-</div>
-
- </div>
 
  ---
 
