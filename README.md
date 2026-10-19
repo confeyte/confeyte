@@ -4,7 +4,6 @@
        alt="banner"/>
 
    
-<img src="https://komarev.com/ghpvc/?username=confeyte&label=Profile%20views&color=8BA6AE&style=flat" alt="Profile views" />
 <img src="https://img.shields.io/badge/java-100.0%25-b30000?style=flat&color=8BA6AE" alt="java" />
 
 
