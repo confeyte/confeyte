@@ -3,22 +3,13 @@
        style="max-width: 1200px; width: 100%; height: auto;"
        alt="banner"/>
 
- ---
+   
+<img src="https://komarev.com/ghpvc/?username=confeyte&label=Profile%20views&color=8BA6AE&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/badge/java-100.0%25-b30000?style=flat&color=8BA6AE" alt="java" />
 
+
+  ----
  
- ▸ **Contact me here**
-
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/confeyte)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rafa.filho.mendess@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-
-</div>
-
----
-
 <br/>
 
 </div>
@@ -31,86 +22,49 @@
 
 </div>
 
----
 
-I’m currently learning Java, focusing on the fundamentals like programming logic and object-oriented programming as I build my skills step by step.
-
-I’m also exploring HTML, CSS, and JavaScript, while learning Git/GitHub, improving my programming logic, working with APIs, and understanding basic backend concepts, building small projects to grow step by step.
+I'm currently learning Java and Spring Boot, while exploring other technologies and tools such as HTML, CSS, JavaScript, PostgreSQL, Git, GitHub, Maven, and Swagger.
 
 
----
+ 
 
-## ▸ Technologies
+ ## ▸ Technologies
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=8BA6AE)
-![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=8BA6AE)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=8BA6AE)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=8BA6AE)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=8BA6AE)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=8BA6AE)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=8BA6AE)
-
+<img src="https://skillicons.dev/icons?i=java,spring,vscode,git,github,postgres,html,css&perline=4" alt="Tecnologias" />
 
 </div>
 
----
+-----
 
-## ▸ Bonfires Lit — Education
+ 
+▸ **Contact me here**
 
-| | Course | Status |
-|:---:|:---|:---:|
-| ◈ | Technical Course in Systems Development — SENAC |  In Progress |
-| ◈ | Advanced English Course — Influx (2.5 years) |  Completed |
-
-</div>
-
----
-
-## ▸ Projects
 
 <div align="center">
 
-<a href="https://github.com/confeyte?tab=repositories">
-  <img 
-    src="https://github.com/confeyte/confeyte/blob/main/c"
-    width="150"
-  />
+
+<a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="80" alt="LinkedIn" />
+</a>
+<a href="mailto:rafa.filho.mendess@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="80" alt="Gmail" />
 </a>
 
 </div>
 
-</div>
 
-<p align="center">
 
+
+## ▸ Projects
+
+- Ongoing projects:
+  - <a href="https://github.com/confeyte/NOME-DO-REPOSITORIO" target="_blank"><img src="https://img.shields.io/badge/Links-In_progress-8BA6AE?style=flat" alt="Links in progress" height="28" align="absmiddle" /></a>
+
+- All of my projects are available in my <a href="https://seu-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8BA6AE?style=flat" alt="Portfolio" height="450" align="absmiddle" /></a>.
   
 
 </p>
 
 </div>
-
-
- ---
-
-
-## ▸ Statistics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=confeyte&theme=dark&background=0d0d0d&border=2a2a2a&ring=8BA6AE&fire=8BA6AE&currStreakLabel=8BA6AE&sideLabels=8BA6AE&dates=6b7280" alt="GitHub Streak">
-
-</div>
-
-------
-
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=confeyte&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  
-
-
-
-
-
