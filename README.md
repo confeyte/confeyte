@@ -62,7 +62,7 @@ I'm currently learning Java and Spring Boot, while exploring other technologies 
 ## ▸ Projects
 
 - Ongoing projects:
-  - <a href="https://github.com/confeyte/NOME-DO-REPOSITORIO" target="_blank"><img src="https://img.shields.io/badge/Links-In_progress-8BA6AE?style=flat" alt="Links in progress" height="28" align="absmiddle" /></a>
+  - <a href="https://github.com/confeyte/projeto" target="_blank"><img src="https://img.shields.io/badge/Links-In_progress-8BA6AE?style=flat" alt="Links in progress" height="28" align="absmiddle" /></a>
 
 - All of my projects are available in my <a href="https://seu-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8BA6AE?style=flat" alt="Portfolio" height="450" align="absmiddle" /></a>.
   
