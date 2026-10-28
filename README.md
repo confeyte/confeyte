@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="a2" width="100%" alt="banner"/>
-</p>
-
-----
 
  
 <br/>
