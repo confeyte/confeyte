@@ -47,7 +47,7 @@ I'm currently learning Java and Spring Boot, while exploring other technologies 
 <div align="center">
 
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+<a href="https://www.linkedin.com/in/rafael-filho-986326408)" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="80" alt="LinkedIn" />
 </a>
 <a href="mailto:rafa.filho.mendess@gmail.com">
