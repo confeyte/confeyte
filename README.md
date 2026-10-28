@@ -1,15 +1,6 @@
 
 
 
-<div style="width: 100%; display: flex; justify-content: center;">
-  <img src="https://github.com/confeyte/confeyte/blob/main/a"
-       style="max-width: 1200px; width: 100%; height: auto;"
-       alt="banner"/>
-
-  <div align="center"> 
-<img src="https://img.shields.io/badge/java-100.0%25-b30000?style=flat&color=8BA6AE" alt="java" />
-
-
   ----
  
 <br/>
