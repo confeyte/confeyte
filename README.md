@@ -41,6 +41,17 @@ I'm constantly learning about software development, clean code, database managem
   ```
 </div>
 
+### `Contact me`
+
+
+
+  <a href="https://www.linkedin.com/in/rafael-filho-986326408/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" align="middle" alt="LinkedIn"></a>
+  <a href="mailto:rafa.filho.mendess@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" align="middle" alt="Gmail"></a>
+</div>
+
+
+</div>
+
 ---
 ### `Projects`
 
@@ -60,5 +71,6 @@ I'm constantly learning about software development, clean code, database managem
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=confeyte&show_icons=true&theme=github_dark&hide_border=false" height="180"/>
 </div>
+
 
 
