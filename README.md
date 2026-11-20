@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://github.com/confeyte/confeyte/blob/main/1.png" >
-</p>
+
 
 </div>
 
