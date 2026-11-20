@@ -1,56 +1,64 @@
-
-
-
-</div>
-
-**Aspiring Full-Stack Developer**
-
-> *"If an angelic being fell from the sky and tried to live in this world of ours, I think even they would commit many wrongs."*
-
-◈ Brazil 🇧🇷
-
-</div>
-
-
-I'm currently learning Java and Spring Boot, while exploring other technologies and tools such as HTML, CSS, JavaScript, PostgreSQL, Git, GitHub, Maven, and Swagger.
-
-
- 
-
- ## ▸ Technologies
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,vscode,git,github,postgres&perline=3" alt="Tecnologias" />
-
+  <img
+    width="100%"
+    height="350"
+    alt="Banner do perfil"
+    src="https://github.com/user-attachments/assets/a275238d-b9b3-4976-ad52-9a7e94837804"
+  />
 </div>
 
------
+### `Rafael Filho`
 
- 
-▸ **Contact me here**
+Yoo! I'm Rafael, a Software Development Student interested in technology and programming.
+I'm currently learning Java and Spring Boot, while exploring other technologies and tools to expand my skills in software development.
+I'm focused on Back-End Development with Java and Spring Boot, while also exploring Front-End Development using HTML, CSS, JavaScript, and React.
+I'm constantly learning about software development, clean code, database management, and building practical applications.
+```json
+{
+  "name": "Rafael Filho",
+  "role": "Aspring FullStack Developer",
+  "location": "Tubarão, SC — Brasil",
+  "main_stack": ["Java", "Spring Boot", "PostgreSQL"],
+  "tools": ["Git", "GitHub", "Maven", "Swagger","VS Code"],
+  "currently_learning": ["Spring Boot", "Spring Security", "Software Architecture", "REST APIs"]
+}
+```
+
 
 
 <div align="center">
-
-  <a href="https://www.linkedin.com/in/rafael-filho-986326408/"><img src="https://skillicons.dev/icons?i=linkedin" width="80" align="middle" alt="LinkedIn"></a>
-  <a href="mailto:rafa.filho.mendess@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="80" align="middle" alt="Gmail"></a>
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,react,postgres,git,github,maven,vscode" height="45"/>
 </div>
 
-
-</div>
-
+<br clear="right"/>
 
 
-
-## ▸ Projects
-
-- Ongoing projects:
-  - <a href="https://github.com/confeyte/projeto" target="_blank"><img src="https://img.shields.io/badge/Links-In_progress-8BA6AE?style=flat" alt="Links in progress" height="28" align="absmiddle" /></a>
-
-- All of my projects are available in my <a href="https://seu-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8BA6AE?style=flat" alt="Portfolio" height="450" align="absmiddle" /></a>.
+ <div align="center">
   
 
-</p>
-
+  ```java
+  System.out.println("It’s not me who is wrong. What is wrong is this world! In this world, the strong devour the weak.");
+  ```
 </div>
+
+---
+### `Projects`
+
+<div align="center">
+  <a href="https://github.com/confeyte/confeyte" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=confeyte&repo=confeyte&theme=github_dark&hide_border=false" />
+  </a>
+  <a href="https://github.com/confeyte/confeyte" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=confeyte&repo=confeyte&theme=github_dark&hide_border=false" />
+  </a>
+</div>
+
+---
+
+### `Stats`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=confeyte&show_icons=true&theme=github_dark&hide_border=false" height="180"/>
+</div>
+
+
